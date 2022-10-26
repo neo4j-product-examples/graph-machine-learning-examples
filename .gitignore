@@ -1,0 +1,7 @@
+.DS_Store
+secrets.json
+data/
+dataset/
+scratch/
+.idea/
+.ipynb_checkpoints/
