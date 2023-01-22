@@ -1,2 +1,2 @@
-# demo-graph-neural-networks
-Neo4j Graph Data Science with Graph Neural Networks (GNNs)
+# Graph Machine Learning Examples
+Neo4j Graph Data Science for Graph Machine Learning and Graph Neural Networks (GNNs).
